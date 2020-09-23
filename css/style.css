@@ -1,0 +1,58 @@
+body{
+	background-color: #556B2F;
+}
+/**Header**/
+#header-nav{
+	background-color: #DAA520;
+}
+#brand{
+	font-family: 'Heebo', sans-serif;
+	font-size: 2.0em;
+	color: red;
+	font-weight: 900;
+	text-shadow: 2px 2px 4px #000000;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+#menu{
+	background-color: #BDB76B;
+	width: 100%;
+	margin-right: -15px;
+	margin-left: -15px;
+	margin-bottom: -10px;
+    text-align: center;
+}
+#menu-list a {
+	text-decoration: none;
+	color: #006400;
+	
+}
+#menu-list a:hover{
+ background: #FFD700;
+ 
+}
+.dropdown-divider{
+	width: 100%;
+}
+#menu-content{
+	background-color: #BDB76B;
+	margin: 10px;
+	padding: 10px;
+	height:1000px;
+	overflow: hidden;
+
+}
+#menu-content h3{
+	font-family: 'Open Sans', sans-serif;
+	color: #006400;
+	font-size: 2.0em;
+	font-size: 2.0em;
+	margin-bottom: 15px;
+}
+h2{
+	font-family: 'Open Sans', sans-serif;
+	color: #FF8C00;
+	font-size: 2.0em;
+	font-size: 2.0em;
+	margin-bottom: 15px;
+}
